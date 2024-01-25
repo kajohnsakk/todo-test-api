@@ -1,6 +1,6 @@
 # Todo List API
 
-This is a simple Todo List API built with Node.js and Express.js. It provides endpoints to manage tasks in a todo list.
+This is a straightforward Todo List API developed using Node.js and Express.js. Additionally, a data-store.json file has been created to serve as a mock storage for todo data and also provides endpoints to manage tasks in a todo list.
 
 ## Table of Contents
 
